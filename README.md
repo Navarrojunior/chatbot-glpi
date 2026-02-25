@@ -29,7 +29,7 @@ Pré-requisitos:
 Passos:
 ```bash
 # Clone o repositório
-git clone https://github.com/seuusuario/chatbot-glpi.git
+git clone https://github.com/Navarrojunior/chatbot-glpi.git
 
 # Entre na pasta do projeto
 cd chatbot-glpi
