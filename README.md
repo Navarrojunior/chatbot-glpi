@@ -1,5 +1,5 @@
 # chatbot-glpi
-Sistema de Automatização de Chamados com ChatBot e GLPI
+Sistema de Automação de Chamados com ChatBot e GLPI
 
 # 🤖 Chatbot Integrado com WhatsApp e GLPI
 
