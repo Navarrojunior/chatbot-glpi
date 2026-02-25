@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+  chatbot:
+    build: /opt/chatbot
+    container_name: chatbot
+    environment:
+      - GLPI_URL=http://seuip:suaporta/api.php/
+      - APP_TOKEN=xxxxxxx
+      - USER_TOKEN=xxxxxx
+      - ITIL_CATEGORY_ID=1
+    ports:
+      - "0000:3000"
+    restart: always
